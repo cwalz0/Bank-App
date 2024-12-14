@@ -1,0 +1,4 @@
+user,password,balance,deposit_counter,savings_balance
+test,test,1000.0,5,612.0
+bank,test,100.0,1,200.0
+benis,2,0.0,0,0.0
